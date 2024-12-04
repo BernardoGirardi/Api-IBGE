@@ -1,0 +1,120 @@
+2024-12-04 23:29:52 - Banco de dados limpo com sucesso.
+2024-12-04 23:30:34 - Log da chamada da API registrado com sucesso.
+2024-12-04 23:30:34 - Estado Rondônia inserido com sucesso.
+2024-12-04 23:30:34 - Estado Acre inserido com sucesso.
+2024-12-04 23:30:34 - Estado Amazonas inserido com sucesso.
+2024-12-04 23:30:34 - Estado Roraima inserido com sucesso.
+2024-12-04 23:30:34 - Estado Pará inserido com sucesso.
+2024-12-04 23:30:34 - Estado Amapá inserido com sucesso.
+2024-12-04 23:30:34 - Estado Tocantins inserido com sucesso.
+2024-12-04 23:30:34 - Estado Maranhão inserido com sucesso.
+2024-12-04 23:30:34 - Estado Piauí inserido com sucesso.
+2024-12-04 23:30:34 - Estado Ceará inserido com sucesso.
+2024-12-04 23:30:34 - Estado Rio Grande do Norte inserido com sucesso.
+2024-12-04 23:30:34 - Estado Paraíba inserido com sucesso.
+2024-12-04 23:30:34 - Estado Pernambuco inserido com sucesso.
+2024-12-04 23:30:34 - Estado Alagoas inserido com sucesso.
+2024-12-04 23:30:34 - Estado Sergipe inserido com sucesso.
+2024-12-04 23:30:34 - Estado Bahia inserido com sucesso.
+2024-12-04 23:30:34 - Estado Minas Gerais inserido com sucesso.
+2024-12-04 23:30:34 - Estado Espírito Santo inserido com sucesso.
+2024-12-04 23:30:34 - Estado Rio de Janeiro inserido com sucesso.
+2024-12-04 23:30:34 - Estado São Paulo inserido com sucesso.
+2024-12-04 23:30:34 - Estado Paraná inserido com sucesso.
+2024-12-04 23:30:34 - Estado Santa Catarina inserido com sucesso.
+2024-12-04 23:30:34 - Estado Rio Grande do Sul inserido com sucesso.
+2024-12-04 23:30:34 - Estado Mato Grosso do Sul inserido com sucesso.
+2024-12-04 23:30:34 - Estado Mato Grosso inserido com sucesso.
+2024-12-04 23:30:34 - Estado Goiás inserido com sucesso.
+2024-12-04 23:30:34 - Estado Distrito Federal inserido com sucesso.
+2024-12-04 23:30:34 - Importação de estados concluída com sucesso.
+2024-12-04 23:38:16 - Banco de dados limpo com sucesso.
+2024-12-04 23:45:35 - Log da chamada da API registrado com sucesso.
+2024-12-04 23:45:35 - Estado Rondônia inserido com sucesso.
+2024-12-04 23:45:35 - Estado Acre inserido com sucesso.
+2024-12-04 23:45:35 - Estado Amazonas inserido com sucesso.
+2024-12-04 23:45:35 - Estado Roraima inserido com sucesso.
+2024-12-04 23:45:35 - Estado Pará inserido com sucesso.
+2024-12-04 23:45:35 - Estado Amapá inserido com sucesso.
+2024-12-04 23:45:35 - Estado Tocantins inserido com sucesso.
+2024-12-04 23:45:35 - Estado Maranhão inserido com sucesso.
+2024-12-04 23:45:35 - Estado Piauí inserido com sucesso.
+2024-12-04 23:45:35 - Estado Ceará inserido com sucesso.
+2024-12-04 23:45:35 - Estado Rio Grande do Norte inserido com sucesso.
+2024-12-04 23:45:35 - Estado Paraíba inserido com sucesso.
+2024-12-04 23:45:35 - Estado Pernambuco inserido com sucesso.
+2024-12-04 23:45:35 - Estado Alagoas inserido com sucesso.
+2024-12-04 23:45:35 - Estado Sergipe inserido com sucesso.
+2024-12-04 23:45:35 - Estado Bahia inserido com sucesso.
+2024-12-04 23:45:35 - Estado Minas Gerais inserido com sucesso.
+2024-12-04 23:45:35 - Estado Espírito Santo inserido com sucesso.
+2024-12-04 23:45:35 - Estado Rio de Janeiro inserido com sucesso.
+2024-12-04 23:45:35 - Estado São Paulo inserido com sucesso.
+2024-12-04 23:45:35 - Estado Paraná inserido com sucesso.
+2024-12-04 23:45:35 - Estado Santa Catarina inserido com sucesso.
+2024-12-04 23:45:35 - Estado Rio Grande do Sul inserido com sucesso.
+2024-12-04 23:45:35 - Estado Mato Grosso do Sul inserido com sucesso.
+2024-12-04 23:45:35 - Estado Mato Grosso inserido com sucesso.
+2024-12-04 23:45:35 - Estado Goiás inserido com sucesso.
+2024-12-04 23:45:35 - Estado Distrito Federal inserido com sucesso.
+2024-12-04 23:45:35 - Importação de estados concluída com sucesso.
+2024-12-05 00:05:04 - Banco de dados limpo com sucesso.
+2024-12-05 00:05:34 - Log da chamada da API registrado com sucesso.
+2024-12-05 00:05:34 - Estado Rondônia inserido com sucesso.
+2024-12-05 00:05:34 - Estado Acre inserido com sucesso.
+2024-12-05 00:05:34 - Estado Amazonas inserido com sucesso.
+2024-12-05 00:05:34 - Estado Roraima inserido com sucesso.
+2024-12-05 00:05:34 - Estado Pará inserido com sucesso.
+2024-12-05 00:05:34 - Estado Amapá inserido com sucesso.
+2024-12-05 00:05:34 - Estado Tocantins inserido com sucesso.
+2024-12-05 00:05:34 - Estado Maranhão inserido com sucesso.
+2024-12-05 00:05:34 - Estado Piauí inserido com sucesso.
+2024-12-05 00:05:34 - Estado Ceará inserido com sucesso.
+2024-12-05 00:05:34 - Estado Rio Grande do Norte inserido com sucesso.
+2024-12-05 00:05:34 - Estado Paraíba inserido com sucesso.
+2024-12-05 00:05:34 - Estado Pernambuco inserido com sucesso.
+2024-12-05 00:05:34 - Estado Alagoas inserido com sucesso.
+2024-12-05 00:05:34 - Estado Sergipe inserido com sucesso.
+2024-12-05 00:05:34 - Estado Bahia inserido com sucesso.
+2024-12-05 00:05:34 - Estado Minas Gerais inserido com sucesso.
+2024-12-05 00:05:34 - Estado Espírito Santo inserido com sucesso.
+2024-12-05 00:05:34 - Estado Rio de Janeiro inserido com sucesso.
+2024-12-05 00:05:34 - Estado São Paulo inserido com sucesso.
+2024-12-05 00:05:34 - Estado Paraná inserido com sucesso.
+2024-12-05 00:05:34 - Estado Santa Catarina inserido com sucesso.
+2024-12-05 00:05:34 - Estado Rio Grande do Sul inserido com sucesso.
+2024-12-05 00:05:34 - Estado Mato Grosso do Sul inserido com sucesso.
+2024-12-05 00:05:34 - Estado Mato Grosso inserido com sucesso.
+2024-12-05 00:05:34 - Estado Goiás inserido com sucesso.
+2024-12-05 00:05:34 - Estado Distrito Federal inserido com sucesso.
+2024-12-05 00:05:34 - Importação de estados concluída com sucesso.
+2024-12-05 00:09:27 - Banco de dados limpo com sucesso.
+2024-12-05 00:11:58 - Log da chamada da API registrado com sucesso.
+2024-12-05 00:11:58 - Estado Rondônia inserido com sucesso.
+2024-12-05 00:11:58 - Estado Acre inserido com sucesso.
+2024-12-05 00:11:58 - Estado Amazonas inserido com sucesso.
+2024-12-05 00:11:58 - Estado Roraima inserido com sucesso.
+2024-12-05 00:11:58 - Estado Pará inserido com sucesso.
+2024-12-05 00:11:58 - Estado Amapá inserido com sucesso.
+2024-12-05 00:11:58 - Estado Tocantins inserido com sucesso.
+2024-12-05 00:11:58 - Estado Maranhão inserido com sucesso.
+2024-12-05 00:11:58 - Estado Piauí inserido com sucesso.
+2024-12-05 00:11:58 - Estado Ceará inserido com sucesso.
+2024-12-05 00:11:58 - Estado Rio Grande do Norte inserido com sucesso.
+2024-12-05 00:11:58 - Estado Paraíba inserido com sucesso.
+2024-12-05 00:11:58 - Estado Pernambuco inserido com sucesso.
+2024-12-05 00:11:58 - Estado Alagoas inserido com sucesso.
+2024-12-05 00:11:58 - Estado Sergipe inserido com sucesso.
+2024-12-05 00:11:58 - Estado Bahia inserido com sucesso.
+2024-12-05 00:11:58 - Estado Minas Gerais inserido com sucesso.
+2024-12-05 00:11:58 - Estado Espírito Santo inserido com sucesso.
+2024-12-05 00:11:58 - Estado Rio de Janeiro inserido com sucesso.
+2024-12-05 00:11:58 - Estado São Paulo inserido com sucesso.
+2024-12-05 00:11:58 - Estado Paraná inserido com sucesso.
+2024-12-05 00:11:58 - Estado Santa Catarina inserido com sucesso.
+2024-12-05 00:11:58 - Estado Rio Grande do Sul inserido com sucesso.
+2024-12-05 00:11:58 - Estado Mato Grosso do Sul inserido com sucesso.
+2024-12-05 00:11:58 - Estado Mato Grosso inserido com sucesso.
+2024-12-05 00:11:58 - Estado Goiás inserido com sucesso.
+2024-12-05 00:11:58 - Estado Distrito Federal inserido com sucesso.
+2024-12-05 00:11:58 - Importação de estados concluída com sucesso.
